@@ -2,7 +2,7 @@
 
 A redundant, segmented enterprise LAN built and tested end-to-end in Cisco Packet Tracer — designed as hands-on practice for the **NTI (National Telecommunication Institute) Network Infrastructure track**, applying CCNA curriculum concepts in a full working topology.
 
-![Topology](Topolgy.png)
+![Topology](Topology.png)
 
 ## Overview
 
